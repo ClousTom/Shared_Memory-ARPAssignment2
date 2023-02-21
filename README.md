@@ -12,8 +12,10 @@ To install the ncurses library, simply open a terminal and type the following co
 sudo apt-get install libncurses-dev
 ```
 ## libbitmap library installation
-Download this repository : `https://github.com/draekko/libbitmap`.
+Download this repository : https://github.com/draekko/libbitmap.
+
 Navigate to the root directory of the folder in the console and run the following commands.
+
 For making the configuration
 ```console
 ./configure 
@@ -43,6 +45,7 @@ source .bashrc
 
 ## Run the code
 Navigate to root directory of the project.
+
 Make the files executable:
 ```console
 chmod +x *.sh
