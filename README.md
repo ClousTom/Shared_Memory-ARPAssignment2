@@ -71,4 +71,4 @@ The process A and process B are in connection with each other through a shared m
 
 Inside of the master file there is child process creation and processA and processB console creations.
 
-Each process stores its status in a log file into the folder `/log`.
+Each process stores its status in a `.log` file into the folder `/log`.
