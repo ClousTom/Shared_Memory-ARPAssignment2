@@ -1,4 +1,4 @@
-# ARP_second_assignment
+# ARP - Assignment 2
 
 ## Project made by:
 
