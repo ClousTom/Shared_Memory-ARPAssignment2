@@ -62,7 +62,8 @@ The aim of the Project is to create separated processes which are in communicati
 
 In the `/src` folder, there are three files: processA, processB and master. 
 
-When the user runs the program, two consoles will appear: processA and processB. The user can control the green cross, which is inside of the processA, by using the right, left, upper and down buttons on the keyboard. Depends on user inputs, the object will move in the console. There is also a blue button (P button) for printing an image, which is saved as `.bmp` file into the folder `/output`. During these processes happening, the user can follow the object movements by 0s continuously drawn on the process B window console.
+When the user runs the program, two consoles will appear: process A and process B. The user can control the pivot (green cross), which is inside of the process A window console, by using the right, left, upper and down buttons on the keyboard. Depends on user inputs, the object will move in the console. There is also a blue button (P button) for printing an image (multiple numbered images can be saved), which is saved as `.bmp` file into the folder `/output`. The image represents the position of the pivot in process A, represented by a blue circle. 
+During these processes happening, the user can follow the object movements by 0s continuously drawn on the process B window console.
 The process A and process B are in connection with each other through a shared memory and the usage of two semaphores. 
 
 Inside of the master file there is child process creation and processA and processB console creations.
