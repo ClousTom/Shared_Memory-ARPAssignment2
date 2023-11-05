@@ -1,4 +1,4 @@
-# ARP - Assignment 2
+# Shared Memory (Second Assignment for Advamced Robortics Programming)
 
 ## Project made by:
 
