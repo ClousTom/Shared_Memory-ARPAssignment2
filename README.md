@@ -1,4 +1,4 @@
-# Shared Memory (Second Assignment for Advanced Robortics Programming)
+# Shared Memory (Second Assignment for Advanced and Robot Programming)
 
 ## Project made by:
 
